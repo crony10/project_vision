@@ -816,8 +816,13 @@ click {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
-
-
+.pricing  p{
+    font-size: 13px;
+    color: #064B76;
+}
+.pricing  p ul li{
+    
+}
 
 
 /* vct style code */
